@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = maciej.j.szuba@gmail.com
+	name = Maciej Szuba
